@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'Kristi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kristi'), url(../fonts/EBOxo6OoarykMRxohIxAtw.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Dao Place';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dao Place'), url(../fonts/dao-place-font.ttf) format('truetype');
+}
+
+ @font-face {
+  font-family: 'Kristi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kristi'), url(../fonts/aRsgBQrkQkMlu4UPSnJyOQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(../fonts/h7rISIcQapZBpei-sXwIwg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(../fonts/iX_QxBBZLhNj5JHlTzHQzg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(../fonts/P_dJOFJylV3A870UIOtr0w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Playfair Display'), local('PlayfairDisplay-Regular'), url(../fonts/2NBgzUtEeyB-Xtpr9bm1CWZnlQD8ZbpFpSCZiMIxKOo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Playfair Display Bold'), local('PlayfairDisplay-Bold'), url(../fonts/UC3ZEjagJi85gF9qFaBgIDONxQZiwIZvp-nclb-uDMM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Playfair Display Italic'), local('PlayfairDisplay-Italic'), url(../fonts/9MkijrV-dEJ0-_NWV7E6NxzvKmUlfaAboQK7DmDEumo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kristi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kristi'), url(../fonts/EBOxo6OoarykMRxohIxAtw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(../fonts/nj47mAZe0mYUIySgfn0wpQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(../fonts/v0SdcGFAl2aezM9Vq_aFTQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kristi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kristi'), url(../fonts/EBOxo6OoarykMRxohIxAtw.ttf) format('truetype');
+}
